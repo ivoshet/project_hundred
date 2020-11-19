@@ -1,0 +1,10 @@
+.menu li {
+    margin-right: 20px;
+    list-style-type: none;
+}
+.menu {
+    margin-top: 10px;
+}
+header{
+    background: gold;
+}
